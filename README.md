@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matis Chabanat</h1>
-<h3 align="center">📚 A French Computer Science student from France, currently working at the University Institute of Technology of Bayonne.</h3>
+<h3 align="left">📚 A French Computer Science student from France, currently working at the University Institute of Technology of Bayonne.</h3>
 
 - 🚧 I'm currently learning **C++, Python and others !**
 
