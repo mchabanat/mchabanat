@@ -1,10 +1,10 @@
 <p align="center" style="width: 50%;">
     <br>
     <br>
-    <br>
     <samp>
         Hello there. I'm <a href="https://github.com/mchabanat">Matis Chabanat</a>.<br>
         I'm a french student from the IUT of Bayonne, France.
+        <br>
         <br>
         <br>
         Contact me with
